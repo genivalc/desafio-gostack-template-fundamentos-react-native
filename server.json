@@ -2,27 +2,27 @@
   "products": [
     {
       "id": "123",
-      "title": "Nome do produto 01",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 50
+      "title": "Game Forza Horizon 4 - XBOX ONE",
+      "image_url": "https://images-americanas.b2w.io/produtos/01/00/item/133797/3/133797324_1GG.jpg",
+      "price": 200
     },
     {
       "id": "1234",
-      "title": "Nome do produto 02",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 60
+      "title": "Game Need For Speed Heat - PS4",
+      "image_url": "https://images-americanas.b2w.io/produtos/01/00/img/1227806/4/1227806412_1SZ.jpg",
+      "price": 321
     },
     {
       "id": "12345",
-      "title": "Nome do produto 03",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 70
+      "title": "Game - Need For Speed: Payback - Xbox One",
+      "image_url": "https://images-americanas.b2w.io/produtos/01/00/item/132597/4/132597460SZ.jpg",
+      "price":  100
     },
     {
       "id": "123456",
-      "title": "Nome do produto 04",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 80
+      "title": "Game Assetto Corsa - PS4",
+      "image_url": "https://images-americanas.b2w.io/produtos/01/00/oferta/131335/6/131335652_1SZ.jpg",
+      "price":  114
     }
   ]
 }
